@@ -1,6 +1,6 @@
 # JWT-Breaker 🔑
 
-![GitHub repo size](https://img.shields.io/github/repo-size/AamerShah/JWT-Breaker?style=for-the-badge)
+![Repo Size](https://img.shields.io/badge/Repo%20Size-1.5%20MB-blue.svg?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/AamerShah/JWT-Breaker?style=for-the-badge)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 ![Built With: HTML, CSS, JS, PHP](https://img.shields.io/badge/Built%20With-HTML%2C%20CSS%2C%20JS%2C%20PHP-blue.svg?style=for-the-badge)
@@ -43,7 +43,7 @@ JWT-Breaker is packed with features to streamline your JWT analysis workflow:
     * **Brute-Force:** Generate secrets based on configurable character sets, minimum, and maximum lengths.
 * **🚀 Multi-threading with Web Workers:** Leverage your CPU's cores for significantly faster cracking attempts, configurable via a "Threads" input.
 * **⏸️ Attack Control:** Pause and resume ongoing cracking operations.
-* **⏱️ Configurable Delay:** Introduce a delay between attempts per worker to manage CPU usage.
+* **⏱️ Configurable Delay:** Introduce a delay in milliseconds between attempts per worker to manage CPU usage.
 * **✅ Supported Algorithms:** Specifically designed to crack HMAC-based signatures (HS256, HS384, HS512).
 * **✨ Intuitive UI/UX:**
     * **Tooltips:** Detailed tooltips for every UI element provide guidance and clarity.
@@ -185,6 +185,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Aamer Shah - [GitHub Profile](https://github.com/AamerShah)
+Feel free to reach out via Telegram: [![Telegram](https://img.shields.io/badge/Telegram-@aamershah.t.me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aamershah)
 
 ---
