@@ -1,7 +1,7 @@
 # JWT-Breaker 🔑
 
 ![Repo Size](https://img.shields.io/badge/Repo%20Size-1.5%20MB-blue.svg?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/AamerShah/JWT-Breaker?style=for-the-badge)
+![Last Commit Date](https://img.shields.io/badge/Last%20Commit-July%2012%2C%202025-blue.svg?style=for-the-badge)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 ![Built With: HTML, CSS, JS, PHP](https://img.shields.io/badge/Built%20With-HTML%2C%20CSS%2C%20JS%2C%20PHP-blue.svg?style=for-the-badge)
 
