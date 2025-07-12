@@ -91,7 +91,7 @@ JWT-Breaker is a web-based tool. To run it, you need a web server with PHP suppo
     (Refer to [Attack Modes](#attack-modes) for details on configuring each type).
 4.  **Configure Attack Parameters:**
     * **Algorithm:** Select the signing algorithm (HS256, HS384, HS512). This should match the `alg` field in the JWT header for successful cracking.
-    * **Threads:** Adjust the number of Web Workers to utilize for parallel processing. More threads can speed up the process but will consume more CPU.
+    * **Threads:** Adjust the number of Web Workers to utilize for parallel processing. The optimal number of threads depends heavily on your system's CPU configuration. As a general guideline, setting around **100 threads is usually okay**, while **300 or more is considered high** and might strain your system. Please note that Web Workers only distribute tasks among your **CPU cores**; they cannot utilize GPU or NPU for accelerated cracking.
     * **Delay (ms):** Set a delay in milliseconds between attempts for each worker. A higher value reduces CPU load but slows down the attack.
 5.  **Execute/Pause/Resume:**
     * Click the **Execute** button to start the attack.
